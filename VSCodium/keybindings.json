@@ -1,7 +1,11 @@
 // Place your key bindings in this file to override the defaults
 [
   {
-    "key": "ctrl+m",
-    "command": "workbench.view.extension.mongoDB"
+    "key": "ctrl+n",
+    "command": "explorer.newFile"
+  },
+  {
+    "key": "ctrl+shift+n",
+    "command": "explorer.newFolder"
   }
 ]
